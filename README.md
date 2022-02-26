@@ -10,5 +10,5 @@
 |4| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA3913_Lesson4_Counting.ipynb"> Counting </a> |This program calculates the total number of times a certain task can be performed using permutationa and combination ideas.|
 |5| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA_3913_Project_5_Structures.ipynb"> Structures </a> |This program uses graphiz library in python to display tree structured data in a visual way.|
 |6| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA_3913_Project_6_Numbers.ipynb"> Numbers </a> |This program calculates the binary version of additiona and substraction with one's and two's complement.|
-|7| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA3913.ipynb"> </a> ||
+|7| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA3913_Lesson7_Proofs.ipynb"> Proofs </a> |This program is designed to calculate the logical decisions of three propositions and their relationship based on the given relation.|
 |8| <a href="https://github.com/aayushbhurtel/Discrete_Math/blob/main/BhurtelAayush_CPSMA3913.ipynb"> </a> ||
